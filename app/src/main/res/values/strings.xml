@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoSimpleClickL3</string>
+    <string name="enter_something">Enter something</string>
+    <string name="button_display">Display</string>
+    <string name="show">Display what the user enters</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
